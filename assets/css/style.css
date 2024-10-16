@@ -21,7 +21,7 @@
     --secondary: #1E2121;
     --grey: #444B4B;
     --blue: #2748D8;
-    --blueHover: #2A4EE8;
+    --blueHover: #3458F8;
     --white: #FFFFFF;
 }
 
@@ -360,7 +360,7 @@ footer {
 }
 
 
-@media screen and (v-width: 992px) {
+@media screen and (min-width: 992px) {
     .container {
         width: 960px;
     }
